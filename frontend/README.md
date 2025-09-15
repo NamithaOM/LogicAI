@@ -29,4 +29,7 @@ LogicAI provides a clean, responsive, and interactive UI to chat with Google’s
 ```bash
 git clone https://github.com/NamithaOM/LogicAI.git
 cd LogicAI/frontend
+npm install
+Create `.env` → add `VITE_GEMINI_API_KEY=...`  
+npm run dev
 
