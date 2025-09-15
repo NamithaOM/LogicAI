@@ -1,12 +1,32 @@
-# React + Vite
+# 🤖 LogicAI – ChatGPT-like AI Tool
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **AI-powered chatbot interface** built with **React + Vite + Tailwind CSS**.  
+LogicAI provides a clean, responsive, and interactive UI to chat with Google’s **Gemini API**, just like ChatGPT.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🎨 **Sleek UI** built with React + Tailwind CSS  
+- 💬 Real-time AI conversations (powered by Gemini API)  
+- 📎 File attachment support  
+- 🚀 Pre-built quick action prompts (brainstorming, summarization, debugging, etc.)  
+- 📱 Fully responsive design  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React 19, Vite, Tailwind CSS  
+- **UI Icons:** [Lucide React](https://lucide.dev/) & [React Icons](https://react-icons.github.io/react-icons/)  
+- **AI Model:** Gemini API (Google Generative AI)  
+
+---
+
+## 📂 Project Setup
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/NamithaOM/LogicAI.git
+cd LogicAI/frontend
+
